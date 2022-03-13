@@ -1,8 +1,10 @@
 <h1 align="center">Olá! Sou o Gabriel 👋</h1> 
 
-- 🌱 Estudando React Native
-- 🤔 Procurando pessoas para estudar React Native juntos
-- 🤞 Em busca de novas oportunidades
+- 🌱  Estudando React Native
+- 🤔  Procurando pessoas para estudar React Native juntos
+- 🤞   Em busca de novas oportunidades
+- 🚀  Aluno do ignite react native da rocketseat
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielsouza2/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielgomes1061/)
